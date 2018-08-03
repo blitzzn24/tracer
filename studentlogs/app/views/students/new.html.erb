@@ -1,0 +1,9 @@
+<h1>New Student</h1>
+
+<%= simple_form_for @students, url: "/students", method: "POST" do |f| %>
+  <%= f.input :first_name %>
+  <%= f.input :last_name %>
+  <%= f.input :program %>
+  <%= f.input :year_level %>
+  <%= f.submit :save %>
+<% end %>

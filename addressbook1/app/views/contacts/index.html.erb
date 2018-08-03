@@ -1,0 +1,23 @@
+<h1>My Contacts</h1>
+
+<form action="/contacts" method="GET">
+	<input name="q" value="<%= @q %>"/>
+	<input type="submit" value="SEARCH"/>
+</form>
+
+<table width="100%">
+  <tr>
+	<th>ID</th>
+	<th>First Name</th>
+	<th>Last Name</th>
+	<th>Email</th>
+  </tr>
+  <% @contacts.each do |c| %>
+  <tr>
+	<td><%= c.id %></td>
+	<td><%= c.firstname %></td>
+	<td><%= c.lasttname %></td>
+	<td><%= c.email %></td>
+  </tr>
+<% end %>
+</table>

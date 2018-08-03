@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+                                
+                                                                                                                                            
+                                                                                
+                                                            
+                                                                                                                        
+                                                                                                                                            
+                                        
+                    <!DOCTYPE html>
+                    <html>
+                        <head>
+                            <meta http-equiv="X-UA-Compatible" content="IE=9">
+                            <style>
+                                html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:11px}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}a:focus,a:active{border:0;outline:0}.amzn-ad-container{background:#fff;width:118px;overflow:hidden;height:231px;border:1px solid #ddd;padding:3px 0}.amzn-ad-container a{text-decoration:none}.amzn-ad-logo-holder{margin:0;padding:0;text-align:center}button{border:0;padding:0;font-family:arial;color:#333;cursor:pointer}button:focus{outline:0}.amzn-ad-white-background{background:#fff}.amzn-ad-container .amzn-ad-logo-holder{text-align:center}.amzn-ad-container .amzn-ad-logo-holder a{display:block}.amzn-ad-logo-holder{margin:0;padding:0}.amzn-ad-image-holder{padding:0;margin:7px 0;text-align:center}.amzn-ad-image-holder img{border:0 !important}.amzn-ad-image-holder a{display:inline-block}.amzn-ad-prod-detail{text-align:left;padding:3px 9px;margin:0;height:34px}.amzn-ad-price-block{text-align:left;padding:0 9px;margin-bottom:9px}.amzn-ad-price-block a{float:left}.amzn-ad-price-block .prime{display:inline-block;float:right}.amzn-ad-privacy{text-align:center;padding:5px 0}.amzn-ad-privacy-link{font:normal 10px/11px Tahoma,Genava,sans-serif;color:#888;text-decoration:none}.amzn-ad-primary-btn{width:100%;display:block;padding:6px 0;margin-bottom:3px;border-width:1px 0}.amzn-ad-primary-btn span{display:block}.amazon .amzn-ad-primary-btn.logo span{text-align:left;height:25px;vertical-align:middle;display:table-cell;padding-left:30px;background-repeat:no-repeat;font-size:11.4px}.amazon.amzn-ad-container{border-top:2px solid #f90}.amazon .amzn-ad-price-block .price,.amazon .amzn-ad-prod-detail #title a,.amazon .amzn-ad-primary-btn .shop{font:normal 13px/17px Arial,Helvetica,sans-serif;color:#333}.amazon .amzn-ad-prod-detail #title a{color:#0066c0}.amazon .amzn-ad-prod-detail{padding:5px 10px 5px}.amazon .amzn-ad-primary-btn{background:#f8e6b8;padding:3px;background:-moz-linear-gradient(top,#f8e6b8 0,#f3d686 6%,#ebb62c 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f8e6b8),color-stop(6%,#f3d686),color-stop(100%,#ebb62c));background:-webkit-linear-gradient(top,#f8e6b8 0,#f3d686 6%,#ebb62c 100%);background:-o-linear-gradient(top,#f8e6b8 0,#f3d686 6%,#ebb62c 100%);background:-ms-linear-gradient(top,#f8e6b8 0,#f3d686 6%,#ebb62c 100%);background:linear-gradient(to bottom,#f8e6b8 0,#f3d686 6%,#ebb62c 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f8e6b8',endColorstr='#ebb62c',GradientType=0)}.amazon .amzn-ad-primary-btn:hover{background:#f4f2ed;background:-moz-linear-gradient(top,#f4f2ed 0,#efdeb3 6%,#e8bb4a 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f4f2ed),color-stop(6%,#efdeb3),color-stop(100%,#e8bb4a));background:-webkit-linear-gradient(top,#f4f2ed 0,#efdeb3 6%,#e8bb4a 100%);background:-o-linear-gradient(top,#f4f2ed 0,#efdeb3 6%,#e8bb4a 100%);background:-ms-linear-gradient(top,#f4f2ed 0,#efdeb3 6%,#e8bb4a 100%);background:linear-gradient(to bottom,#f4f2ed 0,#efdeb3 6%,#e8bb4a 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f2ed',endColorstr='#e8bb4a',GradientType=0)}.amazon .amzn-ad-primary-btn span{color:#111;font-size:14px;background-position:0 0}.amazon .amzn-ad-price-block{height:17px}.amzn-ad-container .amzn-ad-privacy-link-light{color:#ddd}.smallparts .amzn-ad-prod-detail{height:42px}.smallparts.amzn-ad-container{border-top:2px solid #2161d4}.smallparts .amzn-ad-price-block .price,.smallparts .amzn-ad-prod-detail #title a,.smallparts .amzn-ad-primary-btn .shop{font:normal 11px/14px Tahoma,Geneva,sans-serif;color:#111}.smallparts .amzn-ad-prod-detail #title a{color:#2161d4}.smallparts .amzn-ad-primary-btn{border-color:#ccc #ddd #111;background:#666;background:-moz-linear-gradient(top,#666 0,#333 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#666),color-stop(100%,#333));background:-webkit-linear-gradient(top,#666 0,#333 100%);background:-o-linear-gradient(top,#666 0,#333 100%);background:-ms-linear-gradient(top,#666 0,#333 100%);background:linear-gradient(to bottom,#666 0,#333 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#666666',endColorstr='#333333',GradientType=0)}.smallparts .amzn-ad-primary-btn:hover{background:#777;background:-moz-linear-gradient(top,#777 0,#444 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#777),color-stop(100%,#444));background:-webkit-linear-gradient(top,#777 0,#444 100%);background:-o-linear-gradient(top,#777 0,#444 100%);background:-ms-linear-gradient(top,#777 0,#444 100%);background:linear-gradient(to bottom,#777 0,#444 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#777777',endColorstr='#444444',GradientType=0)}.smallparts .amzn-ad-primary-btn .shop{text-align:center;color:#fff;font-size:14px;line-height:16px;display:block}.smallparts .amzn-ad-prod-detail #title a{color:#2161d4;text-decoration:none}.smallparts .amzn-ad-prod-detail #title a:hover{color:#cc7a00;text-decoration:underline}.amazon.amzn-ad-container-thin-border,.smallparts.amzn-ad-container-thin-border{border-top:1px solid #ddd;height:232px}.smallparts .amzn-ad-price-block{height:12px}
+                            </style>
+                        </head>
+                        <body >
+                        <script type="text/javascript">
+                                                            var height = 40;
+                                                                                        function checktext(){
+                                var titleNode = document.getElementById("title");
+                                var hrefNode = document.getElementById("titlehref");
+                                var title = hrefNode.innerHTML;
+                                var oldLength = title.length;
+                                var newLength;
+                                while(titleNode.scrollHeight>height ){
+                                    title=title.replace(/\s(\S)*$/,'');
+                                    newLength = title.length;
+                                    if(newLength>=oldLength){
+                                        title = title.substring(0,newLength - 5);
+                                        title=title+'...';
+                                        oldLength=title.length;
+                                        hrefNode.innerHTML = title;
+                                    }
+                                    else{
+                                        title=title+'...';
+                                        oldLength=title.length;
+                                        hrefNode.innerHTML = title;
+                                    }
+                                }
+                                 if (titleNode.scrollWidth>110){
+                                     var width = titleNode.scrollWidth;
+                                    while(titleNode.scrollWidth>110){
+                                        var newTitle =title.substring(0,newLength - 1);
+                                        newLength = newLength - 1 ;
+                                        newTitle = newTitle + '...' ;
+                                        hrefNode.innerHTML = newTitle ;
+                                     }
+                                 }
+                            }
+                            function encodehtml(text){
+                                var encodedtext=
+                                    String(text).replace(/&/g,'\u0026').replace(/</g,'\u003C').replace(/>/g,'\u003E').replace(/"/g, '\u0022');                            
+                                document.getElementById("titlehref").title=encodedtext;
+                                document.getElementById("prod-image").title=encodedtext;
+                            }
+                       </script>
+                                                <div class="amazon amzn-ad-container " style = "">
+                            <div class="amzn-ad-white-background">
+                            <div class="amzn-ad-logo-holder">
+                                <a rel="nofollow" href=https://www.amazon.com/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=as_sl_pc_tf_til?tag=xyzpubcom02-20&linkCode=w00&linkId=&creativeASIN=B01BKFPTJ0 target="_top">
+                                    <img class="" src="https://wms-na.amazon-adsystem.com/panda/20070822/US/img/a-logo-amazon.png"/>
+                                </a>
+                            </div>
+                            <div class="amzn-ad-image-holder">
+                                        <a rel="nofollow" href=https://www.amazon.com/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=as_sl_pc_tf_til?tag=xyzpubcom02-20&linkCode=w00&linkId=&creativeASIN=B01BKFPTJ0 target="_top">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/51opRXnsONL._AC_AC_SR98,95_.jpg" id="prod-image"/>
+                                        </a>
+                            </div>
+                            </div>
+                                <div style="background:#FFFFFF;">
+                                    <div class="amzn-ad-prod-detail">
+                                        <div id="title" >
+                                            <a rel="nofollow" id="titlehref" href=https://www.amazon.com/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=as_sl_pc_tf_til?tag=xyzpubcom02-20&linkCode=w00&linkId=&creativeASIN=B01BKFPTJ0 style="color:#0000FF;" target="_top" ">Ruby on Rails 5.0 for Autodidacts: Learn Ruby 2.3 and Rails 5.0</a>
+                                        </div>
+                                        <script type="text/javascript">
+                                            checktext();
+                                            encodehtml("Ruby on Rails 5.0 for Autodidacts: Learn Ruby 2.3 and Rails 5.0");
+                                        </script>
+                                       </div>
+                                    <div class="amzn-ad-price-block">
+                                     <a rel="nofollow" id="titlehref" href=https://www.amazon.com/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=as_sl_pc_tf_til?tag=xyzpubcom02-20&linkCode=w00&linkId=&creativeASIN=B01BKFPTJ0 target="_top">
+                                    <span class="price" style="color:#000000;">$9.99</span></a>
+                                                                    </div>
+                                <div class="amzn-ad-primary-btn logo">
+                                    <a rel="nofollow" href=https://www.amazon.com/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0/ref=as_sl_pc_tf_til?tag=xyzpubcom02-20&linkCode=w00&linkId=&creativeASIN=B01BKFPTJ0 target="_top">
+                                         <span style="background-image:url(https://wms-na.amazon-adsystem.com/panda/20070822/US/img/cart.gif)" class="shop" id="amzn_assoc_shop_now"></span>
+                                    </a>
+                                </div>
+                         </div>
+                         <img id="track" style="width:0px;heigh:0px"/>
+                       <script type="text/javascript">
+                        var img =document.getElementById("track");
+                        img.src="//ir-na.amazon-adsystem.com/e/ir?o=1&t=xyzpubcom02-20&l=w00";
+                        var shopNow = document.getElementById("amzn_assoc_shop_now");
+                        if(shopNow) {
+                            shopNow.innerText = "Shop now";
+                            shopNow.textContent = "Shop now";
+                        }
+                            		var amazon_assoc_ir_f_call_associates_ads = function(map) {
+			var logTypeStr = "", foresterURL, json;
+			if(typeof JSON !== 'undefined') json = JSON.stringify(map);
+			else if(typeof amzn_assoc_utils !== 'undefined') json = amzn_assoc_utils.stringify(map);
+			else return;
+			if(typeof map.logType !== "undefined") logTypeStr = "&logType=" + map.logType;
+			// forester URLs are of format //<end_point>/<api_version>/<channel_id>/<channel_version>/<OPERATION>/
+			// Depending on operation, we either pass the data in the URI or we pass them as query parameters
+			// if operation is OP, data must be in query parameters while if operation is TOP,
+			// data must be in the URI itself
+			foresterURL = "//fls-na.amazon-adsystem.com/1/associates-ads/1/OP/r/json";
+						    foresterURL = foresterURL + "?cb=" + (new Date()).getTime() + logTypeStr + "&p=" + encodeURIComponent(json);
+						(new Image()).src = foresterURL;
+		};
+    var amazon_assoc_ir_f_call = amazon_assoc_ir_f_call_associates_ads;
+                                                amazon_assoc_ir_f_call({"program": "1", "linkCode": "w00", "panda":  true ,
+                                                "tag": "xyzpubcom02-20", "refUrl": ((window.location != window.parent.location)? document.referrer:document.location.href)});
+                    </script>
+                     </body>
+                    </html>
+                                        èÎ3¼+      [c¨ú[c¨ÿ?X¢Ä       ¯    :https://ws-na.assoc-amazon.com/widgets/cm?lt1=_top&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=xyzpubcom02-20&o=1&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B01BKFPTJ0 necko:classified 1 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAXbMIIF1zCCBL+gAwIBAgIQCre65xeXB0uK6d4ohRt/FTANBgkqhkiG9w0BAQsFADBGMQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIgQ0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xODA2MjIwMDAwMDBaFw0xOTA2MjIxMjAwMDBaMCExHzAdBgNVBAMTFndzLW5hLmFzc29jLWFtYXpvbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCxzTnfzsqexb1xrsDHWPjFz7SZhQGXMFvMQ7BoiTRvxRrbwljudelKEJjBlxEeRHHQ/z8FKl3lNNw3ZRM8HKXSpx9rkpaDc+h931rdLYPld3LJE2KUxC3V3Tr6FT9XvqRctbNdorPsb9xENkqDzJu7P6GvCq8gmBAyuVuxNHggNi0piBi1icUgjjQ/SJs/+JSFbLAaLHto3RAwDHKkmLrS2J12BtSXbi+bWjb0xEC9vCG3v5VcN9kH5oz/ICUrvw7A75QRMXuDmzOVCA8TJNWG0GPM964iJo43UcmNQ76xRKKK2x1gg88dHT3QMEfXktAPEpdmz3WrFO2FdwMkNCq/AgMBAAGjggLkMIIC4DAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUert55PZ/fhzTBQNHVKhxi1jqatswgYIGA1UdEQR7MHmCGXdzLW5hLmFtYXpvbi1hZHN5c3RlbS5jb22CFndzLW5hLmFzc29jLWFtYXpvbi5jb22CDHdzLmFtYXpvbi5jYYINd3MuYW1hem9uLmNvbYISd3MuYXNzb2MtYW1hem9uLmNhghN3cy5hc3NvYy1hbWF6b24uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMCAGA1UdIAQZMBcwCwYJYIZIAYb9bAECMAgGBmeBDAECATB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWQn/bNsAAAEAwBGMEQCIDhGMLI1e35pidr9fvwgtsCFNKA5mdKvA6YgVjakeiEXAiBrJMBfyCFr4xpsjcp+oZ6hML43/Q+yt5PmeChnGzBMzAB3AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABZCf9s1gAAAQDAEgwRgIhAOQEqG765P59rptqah9PJjnrGg9dHepHUJg4kl/Zt/ETAiEArbMNnA5Eo2RYi9AAQWpvi6ec1QKN/uj5U6aLp+y5z5AwDQYJKoZIhvcNAQELBQADggEBALP+Q/1VBVE7/o9w677FFHN4NMo75ft1FuH7QjypOyLdb/uwrdCW8GdQWRmjmoFkPqM7k/lDymGpLU92FA+BPb/uAVOEMIqTUKKT1qUHAPgUAuM7r3K0eV8mcqtOFoqa2zgolZpvXNaaT2J0z/DcUrdrEZaQ+fesXIn878eu4EG2lVBvyAKj0SPRVcfD0Z652OAv0T39jinLN3nXs6Z56eDOkcsodTLj78dTIsg9rMuN7guBQVECWKLoUWlCRC+x2YyOaWPdm+5lODwgBRhhyNy5K3NxJKS/1orH86NoRS4AobV4vX6B+ObRYdHS7iKTB9NSV9Q0HxDmDGwqCEZ4oFEALwMBAAAAAAEBAAAAAAAABG5vbmUAAAAEbm9uZQGVn7FlZRdIf6ub2JE75TGXrnTNpc0vRz+W9fC3//YsaAAAAANmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAXbMIIF1zCCBL+gAwIBAgIQCre65xeXB0uK6d4ohRt/FTANBgkqhkiG9w0BAQsFADBGMQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIgQ0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0xODA2MjIwMDAwMDBaFw0xOTA2MjIxMjAwMDBaMCExHzAdBgNVBAMTFndzLW5hLmFzc29jLWFtYXpvbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCxzTnfzsqexb1xrsDHWPjFz7SZhQGXMFvMQ7BoiTRvxRrbwljudelKEJjBlxEeRHHQ/z8FKl3lNNw3ZRM8HKXSpx9rkpaDc+h931rdLYPld3LJE2KUxC3V3Tr6FT9XvqRctbNdorPsb9xENkqDzJu7P6GvCq8gmBAyuVuxNHggNi0piBi1icUgjjQ/SJs/+JSFbLAaLHto3RAwDHKkmLrS2J12BtSXbi+bWjb0xEC9vCG3v5VcN9kH5oz/ICUrvw7A75QRMXuDmzOVCA8TJNWG0GPM964iJo43UcmNQ76xRKKK2x1gg88dHT3QMEfXktAPEpdmz3WrFO2FdwMkNCq/AgMBAAGjggLkMIIC4DAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUert55PZ/fhzTBQNHVKhxi1jqatswgYIGA1UdEQR7MHmCGXdzLW5hLmFtYXpvbi1hZHN5c3RlbS5jb22CFndzLW5hLmFzc29jLWFtYXpvbi5jb22CDHdzLmFtYXpvbi5jYYINd3MuYW1hem9uLmNvbYISd3MuYXNzb2MtYW1hem9uLmNhghN3cy5hc3NvYy1hbWF6b24uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3JsMCAGA1UdIAQZMBcwCwYJYIZIAYb9bAECMAgGBmeBDAECATB1BggrBgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpvbnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWQn/bNsAAAEAwBGMEQCIDhGMLI1e35pidr9fvwgtsCFNKA5mdKvA6YgVjakeiEXAiBrJMBfyCFr4xpsjcp+oZ6hML43/Q+yt5PmeChnGzBMzAB3AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABZCf9s1gAAAQDAEgwRgIhAOQEqG765P59rptqah9PJjnrGg9dHepHUJg4kl/Zt/ETAiEArbMNnA5Eo2RYi9AAQWpvi6ec1QKN/uj5U6aLp+y5z5AwDQYJKoZIhvcNAQELBQADggEBALP+Q/1VBVE7/o9w677FFHN4NMo75ft1FuH7QjypOyLdb/uwrdCW8GdQWRmjmoFkPqM7k/lDymGpLU92FA+BPb/uAVOEMIqTUKKT1qUHAPgUAuM7r3K0eV8mcqtOFoqa2zgolZpvXNaaT2J0z/DcUrdrEZaQ+fesXIn878eu4EG2lVBvyAKj0SPRVcfD0Z652OAv0T39jinLN3nXs6Z56eDOkcsodTLj78dTIsg9rMuN7guBQVECWKLoUWlCRC+x2YyOaWPdm+5lODwgBRhhyNy5K3NxJKS/1orH86NoRS4AobV4vX6B+ObRYdHS7iKTB9NSV9Q0HxDmDGwqCEZ4oFFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAARNMIIESTCCAzGgAwIBAgITBn+UV4WH6Kx33rJTMlu8mYtWDTANBgkqhkiG9w0BAQsFADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6b24gUm9vdCBDQSAxMB4XDTE1MTAyMjAwMDAwMFoXDTI1MTAxOTAwMDAwMFowRjELMAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEVMBMGA1UECxMMU2VydmVyIENBIDFCMQ8wDQYDVQQDEwZBbWF6b24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCThZn3c68asg3Wuw6MLAd5tES6BIoSMzoKcG5blPVo+sDORrMd4f2AbnZcMzPa43j4wNxhplty6aUKk4T1qe9BOwKFjwK6zmxxLVYo7bHViXsPlJ6qOMpFge5blDP+18x+B26A0piiQOuPkfyDyeR4xQghfj66Yo19V+emU3nazfvpFA+ROz6WoVmB5x+F2pV8xeKNR7u6azDdU5YVX1TawprmxRC1+WsAYmz6qP+z8ArDITC2FMVy2fw0IjKOtEXc/VfmtTFch5+AfGYMGMqqvJ6LcXiAhqG5TI+Dr0RtM88k+8XUBCeQ8IGKuANaL7TiItKZYxK1MMuTJtV9IblAgMBAAGjggE7MIIBNzASBgNVHRMBAf8ECDAGAQH/AgEAMA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUWaRmBlKge5WSPKOUByeWdFv5PdAwHwYDVR0jBBgwFoAUhBjMhTTsvAyUlC4IWZzHshBOCggwewYIKwYBBQUHAQEEbzBtMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5yb290Y2ExLmFtYXpvbnRydXN0LmNvbTA6BggrBgEFBQcwAoYuaHR0cDovL2NydC5yb290Y2ExLmFtYXpvbnRydXN0LmNvbS9yb290Y2ExLmNlcjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3JsLnJvb3RjYTEuYW1hem9udHJ1c3QuY29tL3Jvb3RjYTEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4IBAQCFkr41u3nPo4FCHOTjY3NTOVI159Gt/a6ZiqyJEi+752+a1U5y6iAwYfmXss2lJwJFqMp2PphKg5625kXg8kP2CN5t6G7bMQcT8C8xDZNtYTd7WPD8UZiRKAJPBXa30/AbwuZe0GaFEQ8ugcYQgSn+IGBI8/LwhBNTZTUVEWuCUUBVV18YtbAiPq3yXqMB48Oz+ctBWuZSkbvkNodPLamkB2g1upRyzQ7qDn1X8nn8N8V7YJ6y68AtkHcNSRAnpTitxBKjtKPISLMVCx7i4hncxHZSyLyKQXhw2W2Xs0qLeC1etA+jTGDK4UfLeC0SF7FSi8o5LL21L8IzApar2pR/ZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAADRTCCA0EwggIpoAMCAQICEwZsn8+Zv4wKOeLweIpD5pY2W8owDQYJKoZIhvcNAQELBQAwOTELMAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJvb3QgQ0EgMTAeFw0xNTA1MjYwMDAwMDBaFw0zODAxMTcwMDAwMDBaMDkxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKEwZBbWF6b24xGTAXBgNVBAMTEEFtYXpvbiBSb290IENBIDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCyeIBxynjV43GvR4BQdH1u2NeIdvSZaPdYIWD5dIQBL6wCLYbToEN6TrKk0Da6Ab6N20jIBxc2TPTuiCPHPus39bUZ+ElosN7XuXY4HWGepP6CNqXlSlbkReH5/bQW+nTanJs1OS/6sCBQBmx60ICypvmv7EcZj1A4B9yihzlY+LrVqflIZzCW7pR4Xm+Jo1HAMIZmoUVmulTro8OR+Ujc/9HoMC19LXRwNdeIJPeexFluu3OHF/IyRii4Q/q3HarKtPKfJA4tS/dxXF5p/+qVAss4iq5QOG/b+y1iG8XHHlThd+BnyA+chyPWP0AgfyCAxIBMPjskJo4ErmyayKoNAgMBAAGjQjBAMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgGGMB0GA1UdDgQWBBSEGMyFNOy8DJSULghZnMeyEE4KCDANBgkqhkiG9w0BAQsFAAOCAQEAmPI3WkGQoRrFdlEoIDYjDq7mKLuq+JSuSKQwfxv8JI1LtMihl/a28XpwyFOTzAgo45glzyOk+d4h03yFCa1OmnU6wgtqiXh2REcYZWyNQY47f5rL9LWnUNcFLDfoA0ut6WGgAm718vDFsu1bt9z6lFx3nhOlf1KtlfL4kzvei1xbylpSW2CvFPdL76P7n0CVbTFU/ELTx0YfI63ZD0hwmtl1eHHRckM0dW5XWcICXCZgKc8jGRaOiEOl1OTLCPsjEUPoQylyYqGpXV4I1JCuuNjOFMLQVfKG9sSTQ3dmYcC56EHXl3hgA25Kcq6l0X26EJ6GbBuKuVkz+OvEkL7xuQAA request-method GET request-User-Agent Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0 response-head HTTP/1.1 200 OK
+Date: Fri, 03 Aug 2018 00:59:40 GMT
+Server: Server
+Cache-Control: must-revalidate
+Pragma: no-cache
+Expires: -1
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+charset: UTF-8
+Access-Control-Allow-Origin: *
+Vary: User-Agent
+Content-Type: text/html;charset=UTF-8
+ original-response-headers Date: Fri, 03 Aug 2018 00:59:40 GMT
+Server: Server
+Cache-Control: must-revalidate
+Pragma: no-cache
+Expires: -1
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+charset: UTF-8
+Access-Control-Allow-Origin: *
+Vary: User-Agent
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+ uncompressed-len 0 net-response-time-onstart 2446 net-response-time-onstop 2450 predictor::resource-count 5 predictor::https://wms-na.amazon-adsystem.com/panda/20070822/US/img/a-logo-amazon.png 1,1,1533257978,4096 predictor::https://images-na.ssl-images-amazon.com/images/I/51opRXnsONL._AC_AC_SR98,95_.jpg 1,1,1533257978,4097 predictor::https://ir-na.amazon-adsystem.com/e/ir?o=1&t=xyzpubcom02-20&l=w00 1,1,1533257978,4096 predictor::https://fls-na.amazon-adsystem.com/1/associates-ads/1/OP/r/json?cb=1533257980977&p=%7B%22program%22%3A%221%22%2C%22linkCode%22%3A%22w00%22%2C%22panda%22%3Atrue%2C%22tag%22%3A%22xyzpubcom02-20%22%2C%22refUrl%22%3A%22http%3A%2F%2Fwww.xyzpub.com%2Fen%2Fruby-on-rails%2F3.2%2Fdatensatz-loeschen.html%22%7D 1,1,1533257978,4096 predictor::https://wms-na.amazon-adsystem.com/panda/20070822/US/img/cart.gif 1,1,1533257978,4096   9P

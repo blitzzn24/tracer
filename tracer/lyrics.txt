@@ -1,0 +1,5 @@
+This is a good day to code
+I love to code
+Especially in Ruby on Rails
+
+edit by riz and zn

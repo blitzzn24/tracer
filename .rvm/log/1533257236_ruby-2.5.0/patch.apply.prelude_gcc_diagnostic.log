@@ -1,0 +1,12 @@
+[2018-08-03 08:47:19] __rvm_patch
+__rvm_patch () 
+{ 
+    \patch "$@" || return $?
+}
+current path: /home/aspyre/.rvm/src/ruby-2.5.0
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/aspyre/.rvm/bin:/home/aspyre/.rvm/bin:/home/aspyre/.rvm/bin
+command(8): __rvm_patch -F 25 -p1 -N -f -i /home/aspyre/.rvm/patches/ruby/2.5.0/prelude_gcc_diagnostic.patch
+++ patch -F 25 -p1 -N -f -i /home/aspyre/.rvm/patches/ruby/2.5.0/prelude_gcc_diagnostic.patch
+patching file template/prelude.c.tmpl
+Hunk #1 succeeded at 142 with fuzz 3 (offset 3 lines).
+Hunk #2 succeeded at 159 with fuzz 3 (offset -10 lines).

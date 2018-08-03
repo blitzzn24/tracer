@@ -1,0 +1,246 @@
+
+
+
+
+	 <html><head><title>Ruby Example Code</title>
+	 <link rel="stylesheet" href="http://sandbox.mc.edu/~bennet/twb.css" type="text/css">
+<link rel="stylesheet" href="ruby.css" type="text/css">
+
+	 <style type="text/css">
+	 p.sans {font-family: sans-serif}
+	 a.hdr { text-decoration: none; font-family: sans-serif; }
+	 
+	 </style>
+	 
+	 </head>
+	 <body BGCOLOR="#EFEFFF" >
+         <img width="100%" height="3" src="http://sandbox.mc.edu/~bennet/icons/bibart.gif" alt=" "><br>
+	 <a href="http://www.mc.edu"><img border="0" 
+		src="http://sandbox.mc.edu/~bennet/icons/msplash3.gif" align=right alt="MC logo"></a>
+	 <table align="left">
+	 <tr><td align="left" colspan="2" height="50" valign="middle">
+				<p style="font-family: sans-serif; font-size: 180%; color: #050b82">
+		 <b>Ruby Example Code</b></p></td></tr>
+	 <tr><td width="10"></td>
+	     <td align="left">
+	         <a href="../index.html" class="hdr">
+		 	<img src="http://sandbox.mc.edu/~bennet/icons/up3.gif" border=0 alt="^"
+				align="top">&nbsp;<font color="#050b82" >
+			<u>CSc 232 Ruby</u></font></a></td></tr>
+	 </table><br clear="all"><img width="100%" height="3" src="http://sandbox.mc.edu/~bennet/icons/bibar.gif" alt=" "><p></p><div class="body">
+
+
+
+
+
+
+
+<table align="center"><tr><td valign="top" align="left"><table>
+<tr><td colspan="2" align="left"
+		valign="top" ><b>Basics</b></td></tr> <tr>
+	<td valign="middle" align="center"><a href="hello_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="hello_rb.html" class="plain">Ruby Hello&#44; World!</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="var1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="var1_rb.html" class="plain">Expressions</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="var2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="var2_rb.html" class="plain">Oh&#44; I Meant Objects</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="str1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="str1_rb.html" class="plain">Strings</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="str2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="str2_rb.html" class="plain">String Operations</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="arr1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="arr1_rb.html" class="plain">Arrays</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="hash1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="hash1_rb.html" class="plain">Hashes</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="lines_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="lines_rb.html" class="plain">Line Breaking</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="io2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="io2_rb.html" class="plain">Basic I/O I</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="io3_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="io3_rb.html" class="plain">Basic I/O II</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="io4_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="io4_rb.html" class="plain">File I/O</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="var3_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="var3_rb.html" class="plain">Parallel Asst.</a></td></tr>
+</table></td><td valign="top" align="left"><table>
+<tr><td colspan="2" align="left"
+		valign="top" ><b>Control Structures</b></td></tr> <tr>
+	<td valign="middle" align="center"><a href="if1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="if1_rb.html" class="plain">Conditional I</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="if2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="if2_rb.html" class="plain">Conditional II</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="wh1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="wh1_rb.html" class="plain">While Loop</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="for1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="for1_rb.html" class="plain">For Loop</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="case1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="case1_rb.html" class="plain">Case Expression</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="iter1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="iter1_rb.html" class="plain">Iterators</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="def1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="def1_rb.html" class="plain">Methods I</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="def2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="def2_rb.html" class="plain">Methods II</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="def3_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="def3_rb.html" class="plain">Methods III</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="exc1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="exc1_rb.html" class="plain">Exceptions I</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="re1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="re1_rb.html" class="plain">Regular Expressions I</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="re2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="re2_rb.html" class="plain">Regular Expressions II</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="iter2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="iter2_rb.html" class="plain">More List Ops</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="poly_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="poly_rb.html" class="plain">Polynomial Evaluator</a></td></tr>
+</table></td><td valign="top" align="left"><table>
+<tr><td colspan="2" align="left"
+		valign="top" ><b>Classes And Objects</b></td></tr> <tr>
+	<td valign="middle" align="center"><a href="class1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="class1_rb.html" class="plain">Ruby Classes</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="box_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="box_rb.html" class="plain">Box Class</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="class2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="class2_rb.html" class="plain">Inheritance</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="class3_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="class3_rb.html" class="plain">Setting Variables</a></td></tr>
+<tr><td colspan="2" align="left"
+		valign="top" ></td></tr><tr><td colspan="2" align="left"
+		valign="top" ><i>Circuit Simulation</i></td></tr> <tr>
+	<td valign="middle" align="center"><a href="csim_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="csim_rb.html" class="plain">Gate Classes</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="ctest_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="ctest_rb.html" class="plain">Circuit Test I</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="ctest2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="ctest2_rb.html" class="plain">Circuit Test II</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="ctestff_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="ctestff_rb.html" class="plain">Circuit Test III</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="cgrp_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="cgrp_rb.html" class="plain">Subassemblies</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="oba_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="oba_rb.html" class="plain">One-Bit Adder Subassembly</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="ctest3_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="ctest3_rb.html" class="plain">Eight-BIt Adder</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="adder_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="adder_rb.html" class="plain">N-Bit Adder Subassembly</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="ctest4_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="ctest4_rb.html" class="plain">Adder Test</a></td></tr>
+</table></td></tr></table>
+
+<table align="center"><tr><td valign="top" align="left"><table>
+<tr><td colspan="2" align="left"
+		valign="top" ><b>Modules</b></td></tr> <tr>
+	<td valign="middle" align="center"><a href="units_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="units_rb.html" class="plain">Unit Conversion</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="conv_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="conv_rb.html" class="plain">Unit Conversion Driver</a></td></tr>
+<tr><td colspan="2" align="left"
+		valign="top" ></td></tr><tr><td colspan="2" align="left"
+		valign="top" ><i>Include</i></td></tr> <tr>
+	<td valign="middle" align="center"><a href="last_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="last_rb.html" class="plain">Inclusion Modules</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="list_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="list_rb.html" class="plain">Linked List</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="tree_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="tree_rb.html" class="plain">Tree</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="rlist_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="rlist_rb.html" class="plain">Driver</a></td></tr>
+</table></td><td valign="top" align="left"><table>
+<tr><td colspan="2" align="left"
+		valign="top" ><b>Tk</b></td></tr> <tr>
+	<td valign="middle" align="center"><a href="tk1_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="tk1_rb.html" class="plain">Button</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="tk2_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="tk2_rb.html" class="plain">Colors</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="tk3_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="tk3_rb.html" class="plain">Configure</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="tk4_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="tk4_rb.html" class="plain">Inheritance</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="blink_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="blink_rb.html" class="plain">Reflex Test</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="hn_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="hn_rb.html" class="plain">Host Lookup</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="bounce_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="bounce_rb.html" class="plain">Bouncing Balls</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="varaction_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="varaction_rb.html" class="plain">Binding and Actions</a></td></tr><tr>
+	<td valign="middle" align="center"><a href="fdld_rb.html"><img border="0" alt="o"
+	src="http://sandbox.mc.edu/~bennet/icons/bluedot2.gif"></a></td>
+	<td valign="middle" align="left" ><a href="fdld_rb.html" class="plain">FTP Download Tool</a></td></tr>
+</table></td></tr></table>
+ 
+</div>
+</body>
+</html>
+
+Z%$éA      [a;Õ[a;ß?Vô9[jvU   3    :http://sandbox.mc.edu/~bennet/ruby/code/index.html necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 01 Aug 2018 04:49:34 GMT
+Server: Apache/2.4.33 (Fedora)
+Last-Modified: Fri, 28 Aug 2009 18:57:52 GMT
+ETag: "3e57-4723842d78c00"
+Accept-Ranges: bytes
+Content-Length: 15959
+Content-Type: text/html; charset=UTF-8
+ original-response-headers Date: Wed, 01 Aug 2018 04:49:34 GMT
+Server: Apache/2.4.33 (Fedora)
+Last-Modified: Fri, 28 Aug 2009 18:57:52 GMT
+ETag: "3e57-4723842d78c00"
+Accept-Ranges: bytes
+Content-Length: 15959
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+ uncompressed-len 0 predictor::resource-count 7 predictor::http://sandbox.mc.edu/~bennet/twb.css 1,1,1533098965,4097 predictor::http://sandbox.mc.edu/~bennet/ruby/code/ruby.css 1,1,1533098965,4097 predictor::http://sandbox.mc.edu/~bennet/icons/bibart.gif 1,1,1533098965,4097 predictor::http://sandbox.mc.edu/~bennet/icons/msplash3.gif 1,1,1533098965,4097 predictor::http://sandbox.mc.edu/~bennet/icons/up3.gif 1,1,1533098965,4097 predictor::http://sandbox.mc.edu/~bennet/icons/bibar.gif 1,1,1533098965,4097 predictor::http://sandbox.mc.edu/~bennet/icons/bluedot2.gif 1,1,1533098965,4097 net-response-time-onstart 8898 net-response-time-onstop 9159   >W

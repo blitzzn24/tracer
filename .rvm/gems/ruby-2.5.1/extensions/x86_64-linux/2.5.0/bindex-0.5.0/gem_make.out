@@ -1,0 +1,15 @@
+current directory: /home/aspyre/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext/bindex
+/home/aspyre/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20180802-8378-1x0cfr.rb extconf.rb
+creating Makefile
+
+current directory: /home/aspyre/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/aspyre/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/aspyre/.rvm/gems/ruby-2.5.1/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180802-8378-1h2766p/bindex

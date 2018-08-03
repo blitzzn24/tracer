@@ -1,0 +1,50 @@
+[2018-08-02 09:18:49] alias_create_execute
+alias_create_execute () 
+{ 
+    for _path in "$rvm_rubies_path" "$rvm_gems_path" "$rvm_environments_path" "$rvm_wrappers_path";
+    do
+        if [[ -L "$_path/$alias_name" ]]; then
+            \command \rm -fv "$_path/$alias_name" || return $?;
+        fi;
+        \command \ln -fs "$_path/$rvm_ruby_string" "$_path/$alias_name" || return $?;
+    done;
+    __rvm_db_ "$rvm_path/config/alias" "$alias_name" "$rvm_ruby_string"
+}
+current path: /home/aspyre
+GEM_HOME=/home/aspyre/.rvm/gems/ruby-2.5.1
+GEM_PATH=/home/aspyre/.rvm/gems/ruby-2.5.1:/home/aspyre/.rvm/gems/ruby-2.5.1@global
+PATH=/home/aspyre/.rvm/gems/ruby-2.5.1/bin:/home/aspyre/.rvm/gems/ruby-2.5.1@global/bin:/home/aspyre/.rvm/rubies/ruby-2.5.1/bin:/home/aspyre/.rvm/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+command(1): alias_create_execute
++ for _path in "$rvm_rubies_path" "$rvm_gems_path" "$rvm_environments_path" "$rvm_wrappers_path"
++ [[ -L /home/aspyre/.rvm/rubies/default ]]
++ command ln -fs /home/aspyre/.rvm/rubies/ruby-2.5.1 /home/aspyre/.rvm/rubies/default
++ ln -fs /home/aspyre/.rvm/rubies/ruby-2.5.1 /home/aspyre/.rvm/rubies/default
++ for _path in "$rvm_rubies_path" "$rvm_gems_path" "$rvm_environments_path" "$rvm_wrappers_path"
++ [[ -L /home/aspyre/.rvm/gems/default ]]
++ command ln -fs /home/aspyre/.rvm/gems/ruby-2.5.1 /home/aspyre/.rvm/gems/default
++ ln -fs /home/aspyre/.rvm/gems/ruby-2.5.1 /home/aspyre/.rvm/gems/default
++ for _path in "$rvm_rubies_path" "$rvm_gems_path" "$rvm_environments_path" "$rvm_wrappers_path"
++ [[ -L /home/aspyre/.rvm/environments/default ]]
++ command ln -fs /home/aspyre/.rvm/environments/ruby-2.5.1 /home/aspyre/.rvm/environments/default
++ ln -fs /home/aspyre/.rvm/environments/ruby-2.5.1 /home/aspyre/.rvm/environments/default
++ for _path in "$rvm_rubies_path" "$rvm_gems_path" "$rvm_environments_path" "$rvm_wrappers_path"
++ [[ -L /home/aspyre/.rvm/wrappers/default ]]
++ command ln -fs /home/aspyre/.rvm/wrappers/ruby-2.5.1 /home/aspyre/.rvm/wrappers/default
++ ln -fs /home/aspyre/.rvm/wrappers/ruby-2.5.1 /home/aspyre/.rvm/wrappers/default
++ __rvm_db_ /home/aspyre/.rvm/config/alias default ruby-2.5.1
++ typeset __db __key __value
++ __db=/home/aspyre/.rvm/config/alias
++ __key=default
++ shift 2
++ __value=ruby-2.5.1
++ case "${__value}" in
++ __rvm_db_add /home/aspyre/.rvm/config/alias default ruby-2.5.1
++ typeset __dir=/home/aspyre/.rvm/config
++ [[ -f /home/aspyre/.rvm/config/alias ]]
++ __rvm_db_remove /home/aspyre/.rvm/config/alias default
++ [[ -f /home/aspyre/.rvm/config/alias ]]
++ __rvm_sed -e '\#^default=# d' -e '/^$/d' /home/aspyre/.rvm/config/alias
++ sed -e '\#^default=# d' -e '/^$/d' /home/aspyre/.rvm/config/alias
++ command mv -f /home/aspyre/.rvm/config/alias.new /home/aspyre/.rvm/config/alias
++ mv -f /home/aspyre/.rvm/config/alias.new /home/aspyre/.rvm/config/alias
++ printf '%b=%b\n' default ruby-2.5.1

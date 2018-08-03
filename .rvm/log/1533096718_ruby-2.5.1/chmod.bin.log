@@ -1,0 +1,25 @@
+[2018-08-01 12:18:24] __rvm_set_executable
+__rvm_set_executable () 
+{ 
+    for __file in "$@";
+    do
+        [[ -x "${__file}" ]] || chmod +x "${__file}";
+    done
+}
+current path: /home/aspyre/.rvm/src/ruby-2.5.1
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/aspyre/.rvm/bin
+command(8): __rvm_set_executable /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/erb /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/gem /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/irb /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/rake /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/rdoc /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/ri /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/ruby
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/erb ]]
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/gem ]]
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/irb ]]
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/rake ]]
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/rdoc ]]
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/ri ]]
+++ for __file in "$@"
+++ [[ -x /home/aspyre/.rvm/rubies/ruby-2.5.1/bin/ruby ]]
